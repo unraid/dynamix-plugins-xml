@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/unraid/unraid/dynamix/master/unRAIDv6/dynamix.share.floor.plg</PluginURL>
+<PluginURL>https://raw.github.com/unraid/dynamix/master/unRAIDv6/dynamix.share.floor.plg</PluginURL>
 <PluginAuthor>Bergware</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System</Category>
@@ -13,3 +13,4 @@ Choose a schedule which fits best with how often shares are updated with new fil
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
 <Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins-xml/master/dynamix.share.floor.png</Icon>
 </Containers>
+
