@@ -7,7 +7,7 @@
 <Category>Tools:Utilities</Category>
 <Name>Apprise</Name>
 <Description>
-Installs the apprise-go CLI as /usr/bin/apprise for sending notifications from Unraid scripts and terminal sessions.
+Installs the apprise-go CLI as /usr/bin/apprise and adds an Apprise target under Settings > Notifications > Notification Agents.
 </Description>
 <Support>https://github.com/unraid/apprise-plugin/issues</Support>
 <Project>https://github.com/unraid/apprise-go</Project>
