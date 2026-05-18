@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/unraid/apprise/main/plugins/apprise.plg</PluginURL>
+<PluginAuthor>Lime Technology</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:Utilities</Category>
+<Name>Apprise</Name>
+<Description>
+Installs the apprise-go CLI as /usr/bin/apprise for sending notifications from Unraid scripts and terminal sessions.
+</Description>
+<Support>https://github.com/unraid/apprise/issues</Support>
+<Project>https://github.com/unraid/apprise-go</Project>
+<Icon>https://raw.githubusercontent.com/unraid/apprise-go/main/assets/themes/default/apprise-info-256x256.png</Icon>
+</Containers>
